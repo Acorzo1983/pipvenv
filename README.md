@@ -56,3 +56,10 @@ You can download this repository directly from GitHub:
 ```bash
 git clone https://github.com/Acorzo1983/pipvenv.git
 ```
+## Contributing
+Feel free to contribute to this project! Open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Made with ❤️ by Albert C.
