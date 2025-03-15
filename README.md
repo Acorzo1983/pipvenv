@@ -9,8 +9,14 @@ Keeps project dependencies isolated from the global system.
 ## Installation
 To install pipvenv, run the following command in your terminal:
 
+
+SUDO
 ```bash
 curl -s https://raw.githubusercontent.com/Acorzo1983/pipvenv/main/pipvenv_installer.sh | sudo bash
+```
+Actual USER
+```bash
+curl -s https://raw.githubusercontent.com/Acorzo1983/pipvenv/main/pipvenv_installer.sh | bash
 ```
 
 Note: This script installs pipvenv locally in ~/.local/bin. If this directory is not in your PATH, it will be added automatically to your ~/.bashrc.
